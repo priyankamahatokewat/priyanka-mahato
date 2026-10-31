@@ -23,10 +23,10 @@
 
 <p align="left">
   <!-- PORTFOLIO FIRST -->
-  <a href="https://github.com/priyankamahatokewat/Priyanka-Portfolio">
+  <a href="https://geniuspriyanka.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <br/><br/>
+  <br/> <br/>
 
   <a href="https://github.com/priyankamahatokewat">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
