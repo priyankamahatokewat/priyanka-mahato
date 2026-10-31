@@ -24,11 +24,8 @@
 <p align="left">
   <!-- PORTFOLIO FIRST -->
   <a href="https://geniuspriyanka.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <br/> <br/>
-
-  <a href="https://github.com/priyankamahatokewat">
+    ---
+ <a href="https://github.com/priyankamahatokewat">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/priyanka-mahato-kwt/">
@@ -40,12 +37,28 @@
   <a href="https://www.facebook.com/PriyankaMahatokwt">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="erpriyanka68">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
+## 💼 Resume & Portfolio
+
+🚀 *Explore my work and projects:*
+
+<a href="https://geniuspriyanka.vercel.app/">
+  Visit My Portfolio
+</a>
+
+<br/><br/>
+
+📄 *Download my Resume:*
+
+<a href="./assets/resume.pdf">
+  Click Here to Download
+</a>
+  </a>
+  <br/> <br/>
+
+ 
 
 ## 💻 Languages & Technologies
 
@@ -67,7 +80,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=https://github.com/priyankamahatokewat/&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
