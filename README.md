@@ -51,7 +51,7 @@
 
 📄 *Download my Resume:*
 
-<a href="assets/resume.pdf" download="Priyanka-Kumari-Resume.pdf" class="btn btn-ghost">
+<a href="assets/resume.pdf" download="Priyanka-Kumari-Resume.pdf">
   Click Here to Download
 </a>
   </a>
