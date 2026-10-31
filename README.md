@@ -24,7 +24,6 @@
 <p align="left">
   <!-- PORTFOLIO FIRST -->
   <a href="https://geniuspriyanka.vercel.app/">
-    ---
  <a href="https://github.com/priyankamahatokewat">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -52,7 +51,7 @@
 
 📄 *Download my Resume:*
 
-<a href="./assets/resume.pdf">
+<a href="assets/resume.pdf" download="Priyanka-Kumari-Resume.pdf" class="btn btn-ghost">
   Click Here to Download
 </a>
   </a>
